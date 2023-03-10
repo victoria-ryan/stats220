@@ -1,16 +1,10 @@
 # Stats 220
 
-```{css}
-h1 {
-  font-family: 'Perpetua', Times;
-  color: #FF69B4
-}
-
-```
+![image](https://user-images.githubusercontent.com/122334820/224211512-dbc83384-aa31-414f-8a22-edfb43b0a2f3.png)
 
 🤩This repo has been made to demonstrate and show my projects for the University of Auckland's Statistics 220 paper.🤩
 
-**In project 1 I will demonstrate:**
+**In Project 1 I will demonstrate:**
 - Firstly: *My markdown skills through R Studio*
 - A recreation of a meme - like this one!
 
