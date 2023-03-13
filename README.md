@@ -12,4 +12,4 @@
 - A gif - [like this one](https://tenor.com/en-GB/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149)... but a bit more simple! 😅
 - An HTML creation!
 
-Enjoy!
+Enjoy !
