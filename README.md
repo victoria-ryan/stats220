@@ -7,7 +7,7 @@ This repo has been made to demonstrate and show my projects for the University o
 - A recreation of a meme - like this one!
 
 ![image](https://user-images.githubusercontent.com/122334820/224212304-4b2fb274-452d-4d37-ac21-936e234cb98d.png)
-- A gif - [like this one](https://tenor.com/en-GB/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149)... but a bit more simple! 😅
+- A gif - [like this one](https://tenor.com/en-GB/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149)... but a bit more simple! 
 - An HTML creation!
 
 Enjoy !
